@@ -1,5 +1,5 @@
 import { defineConfig } from "vite"; 'vite';
 
 export default defineConfig({
-    base: '/<REPO>/'
+    base: '/js-vite-todolist/'
 });
